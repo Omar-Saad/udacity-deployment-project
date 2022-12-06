@@ -1,6 +1,6 @@
 # Hosting a Full-Stack Application
 
-### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
+Hosted at: http://my-177900700107-bucket.s3-website-us-east-1.amazonaws.com/
 
 ---
 
@@ -66,6 +66,30 @@ The e2e tests are using Protractor and Jasmine.
 - [Angular](https://angular.io/) - Single Page Application Framework
 - [Node](https://nodejs.org) - Javascript Runtime
 - [Express](https://expressjs.com/) - Javascript API Framework
+
+## Screenshots
+
+Architecture Diagram
+
+![Architecture Diagram](screenshots/diagram.png)
+
+Circle-ci pipeline last build
+
+![Circle-ci last build](screenshots/circle-ci-last-build.png)
+
+Elasctic Beanstalk application configuration
+
+![Elastic Beanstalk application configuration](screenshots/eb.png)
+
+S3 bucket
+
+![S3 bucket](screenshots/s3.png)
+
+RDS database
+
+![RDS database](screenshots/rds.png)
+
+
 
 ## License
 
