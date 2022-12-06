@@ -9,5 +9,3 @@ export AWS_REGION=us-east-1
 export AWS_PROFILE=default
 export JWT_SECRET=secret
 export URL=udagram-api-dev.eba-nkby34uq.us-east-1.elasticbeanstalk.com
-export AWS_ACCESS_KEY_ID=AKIASS25VIHFUDWFMI63
-export AWS_SECRET_ACCESS_KEY=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
