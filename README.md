@@ -73,6 +73,12 @@ Architecture Diagram
 
 ![Architecture Diagram](screenshots/diagram.png)
 
+Pipeline Diagram
+
+![Pipeline Diagram](screenshots/pipline.png)
+Image source: https://timmyomahony.com/blog/django-and-circleci-2
+
+
 Circle-ci pipeline last build
 
 ![Circle-ci last build](screenshots/circle-ci-last-build.png)
@@ -88,6 +94,10 @@ S3 bucket
 RDS database
 
 ![RDS database](screenshots/rds.png)
+
+Circle-ci environment variables
+
+![Circle-ci environment variables](screenshots/circle-ci-env.png)
 
 
 
